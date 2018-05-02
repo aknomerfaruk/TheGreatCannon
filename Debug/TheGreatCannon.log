@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(69): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(79): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(87): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(97): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(105): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(113): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\ömer\documents\visual studio 2015\projects\thegreatcannon\thegreatcannon\main.cpp(132): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  TheGreatCannon.vcxproj -> C:\Users\ömer\Documents\Visual Studio 2015\Projects\TheGreatCannon\Debug\TheGreatCannon.exe
+  TheGreatCannon.vcxproj -> C:\Users\ömer\Documents\Visual Studio 2015\Projects\TheGreatCannon\Debug\TheGreatCannon.pdb (Partial PDB)
