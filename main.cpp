@@ -42,7 +42,7 @@ void ShapeShift(int w, int h) {
 
 void DrawCannon(void) {
 	
-	//JoinParts
+	//JoiningParts
 	glPushMatrix();
 	glColor3f(0.90, 0.91, 0.98);
 	glTranslatef(4.0, +3.0, -3.25);
